@@ -1,0 +1,14 @@
+C:\Users\aryan\OneDrive\Documents\_Year 2\Semester 1\CAB201\Assignment 2\bin\Debug\net10.0\Assignment 2.exe
+C:\Users\aryan\OneDrive\Documents\_Year 2\Semester 1\CAB201\Assignment 2\bin\Debug\net10.0\Assignment 2.deps.json
+C:\Users\aryan\OneDrive\Documents\_Year 2\Semester 1\CAB201\Assignment 2\bin\Debug\net10.0\Assignment 2.runtimeconfig.json
+C:\Users\aryan\OneDrive\Documents\_Year 2\Semester 1\CAB201\Assignment 2\bin\Debug\net10.0\Assignment 2.dll
+C:\Users\aryan\OneDrive\Documents\_Year 2\Semester 1\CAB201\Assignment 2\bin\Debug\net10.0\Assignment 2.pdb
+C:\Users\aryan\OneDrive\Documents\_Year 2\Semester 1\CAB201\Assignment 2\obj\Debug\net10.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Documents\_Year 2\Semester 1\CAB201\Assignment 2\obj\Debug\net10.0\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Documents\_Year 2\Semester 1\CAB201\Assignment 2\obj\Debug\net10.0\Assignment 2.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Documents\_Year 2\Semester 1\CAB201\Assignment 2\obj\Debug\net10.0\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Documents\_Year 2\Semester 1\CAB201\Assignment 2\obj\Debug\net10.0\Assignment 2.dll
+C:\Users\aryan\OneDrive\Documents\_Year 2\Semester 1\CAB201\Assignment 2\obj\Debug\net10.0\refint\Assignment 2.dll
+C:\Users\aryan\OneDrive\Documents\_Year 2\Semester 1\CAB201\Assignment 2\obj\Debug\net10.0\Assignment 2.pdb
+C:\Users\aryan\OneDrive\Documents\_Year 2\Semester 1\CAB201\Assignment 2\obj\Debug\net10.0\Assignment 2.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Documents\_Year 2\Semester 1\CAB201\Assignment 2\obj\Debug\net10.0\ref\Assignment 2.dll
